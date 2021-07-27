@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Python | C++ | C | Java  
 - 🌐 &nbsp; Django| React | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase |
+- 🛢 &nbsp; MySQL | NoSQL |
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
 <br>
