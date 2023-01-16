@@ -5,8 +5,8 @@
 
 - 🔭 &nbsp; I’m currently learning IA and data science methods.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying electronic engineering at Universidade Tecnológica Federal do Paraná
-- 💼 &nbsp; I’m currently working as IA trainee.
+- 🎓 &nbsp; Studying computer engineer at Universidade Tecnológica Federal do Paraná
+- 💼 &nbsp; I’m currently working as Data Scientist.
 - 🌱 &nbsp; Enthusiast in full stack and mobile development.
 
 <h3>🛠 Tech Stack</h3>
