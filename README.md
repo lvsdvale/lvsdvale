@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | C | Java  
+- 💻 &nbsp; Python | C++ | C | Javascript 
 - 🤖 &nbsp; Scikit-Learn | Tensor-Flow | Prophet | Pandas | Numpy  
 - 🌐 &nbsp; Django| React | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | NoSQL |
