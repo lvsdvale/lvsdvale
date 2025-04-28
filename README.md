@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning IA and data science methods.
+- 🔭 &nbsp; Always learning IA and data science methods.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying computer engineer at Universidade Tecnológica Federal do Paraná
 - 💼 &nbsp; I’m currently working as Data Scientist.
