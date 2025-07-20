@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | C 
-- 🤖 &nbsp; Scikit-Learn | Tensor-Flow | Prophet | Pandas | Numpy  
-- 🌐 &nbsp; Django| React | HTML | CSS | JavaScript | Bootstrap | Express
-- 🛢 &nbsp; MySQL | NoSQL |
+- 💻 &nbsp; Python | C++ | C
+- 🤖 &nbsp; Scikit-Learn | TensorFlow | Pytorch| Prophet | Pandas | Numpy | Trasformer 
+- 🌐 &nbsp; Django| FastAPI| React | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; Postgres | MySQL | NoSQL |
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
 <br>
